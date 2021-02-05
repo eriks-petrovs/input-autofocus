@@ -1,0 +1,20 @@
+{
+    "startup_app": {
+        "name": "focus-input",
+        "url": "http://localhost:5555/index.html",
+        "uuid": "focus-input",
+        "applicationIcon": "http://localhost:5555/favicon.ico",
+        "autoShow": true,
+        "saveWindowState": true
+    },
+    "runtime": {
+        "arguments": "",
+        "version": "18.87.55.19"
+    },
+    "shortcut": {
+        "company": "OpenFin",
+        "description": "focus-input",
+        "icon": "http://localhost:5555/favicon.ico",
+        "name": "focus-input"
+    }
+}
