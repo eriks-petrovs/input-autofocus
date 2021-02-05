@@ -2,14 +2,14 @@
 
 [app-template](https://github.com/HadoukenIO/app-template)
 
+## Notes
+- Please see main.js for the window creation / show / bringToFront / focus logic. 
+
 ## How to use
 
-Execute `create-openfin-app` to bootstrap the template.
-
-- `npx create-openfin-app --template app-template my-template` 
 - Install and run:
 ```
-cd my-template
+cd input-autofocus
 npm install
 npm start
 ```
